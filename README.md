@@ -1,6 +1,6 @@
 # 5G-Routers
 
-<table border="1" cellspacing="0">
+<table>
 <tbody>
 <tr>
 <td>
